@@ -1,9 +1,9 @@
 # Python Hello World Project
 
-**Full Name:** [Your Full Name]  
-**Student Number:** [Your Student Number]  
-**Program of Study:** [Your Program of Study]  
-**Course Name:** [Your Course Name]  
+**Full Name:** John Sipanje 
+**Student Number:** 2025010743
+**Program of Study:** degree in ict
+**Course Name:** ict  
 
 ## Project Description
 This project introduces students to basic Python programming.  
