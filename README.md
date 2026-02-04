@@ -1,8 +1,11 @@
 # Python Hello World Project
 
 **Full Name:** John Sipanje 
+
 **Student Number:** 2025010743
+
 **Program of Study:** degree in ict
+
 **Course Name:** ict  
 
 ## Project Description
